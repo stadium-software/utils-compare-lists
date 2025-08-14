@@ -1,6 +1,8 @@
 # Compare Lists
 
-A script to compare objects in two Lists
+A script that compares objects in two Lists. 
+
+An updated list and an original list is passed into the script which then uses a common unique identifyer to find rows to compare. Where the unique identifyer is found in both lists, the objects of that item are compared to each other. 
 
 # Version 
 
