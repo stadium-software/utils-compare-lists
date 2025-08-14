@@ -116,8 +116,8 @@ Input: Changed List
         "LastName": "Vaughn1",
         "NoOfChildren": "4",
         "NoOfPets": "2",
-        "StartDate": "1970-08-06", //note: the original date may not be in the same format as the updated date, even though the date is the same
-        "EndDate": "1969-12-08", //note: the original date may not be in the same format as the updated date, even though the date is the same
+        "StartDate": "1970-08-06",
+        "EndDate": "1969-12-08",
         "Healthy": true,
         "Happy": false,
         "Subscription": "Unsubscribed"
@@ -128,8 +128,8 @@ Input: Changed List
         "LastName": "Hester",
         "NoOfChildren": 10,
         "NoOfPets": 1,
-        "StartDate": "2022-12-19", //note: the original date may not be in the same format as the updated date, even though the date is the same
-        "EndDate": "2024-04-30", //note: the original date may not be in the same format as the updated date, even though the date is the same
+        "StartDate": "2022-12-19",
+        "EndDate": "2024-04-30",
         "Healthy": true,
         "Happy": false,
         "Subscription": "No data"
