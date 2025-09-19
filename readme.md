@@ -169,8 +169,8 @@ function deepEqual(a, b) {
 1. Drag the script called "CompareLists" into a script or event handler
 2. Enter values for the script input parameters
    1. IDColumn (optional): The name of an object that uniquely identifies an item in the two lists (e.g. ID)
-   2. List1: The initial list
-   3. List2: The updated list
+   2. List1
+   3. List2
    4. SortLists (optional, boolean, default false): Indicates if lists must be sorted before they are compared.
 4. Result: The script returns a boolean value indicating if the two lists are identical or not.
 
