@@ -2,7 +2,7 @@
 
 A script that compares objects in two Lists. 
 
-Two lists are passed into the script. When a common unique identifier is provided the objects of that item are compared to each other. When the SortLists parameter is set to true, the lists will be sorted before they ar compared. 
+Two lists are passed into the script. When a common unique identifier is provided the objects of that item are compared to each other. When the SortLists parameter is set to true, the lists will be sorted before they ar compared. The script returns a boolean value indicating if the two lists are identical or not.
 
 # Version 
 
@@ -173,4 +173,3 @@ function deepEqual(a, b) {
    3. List2
    4. SortLists (optional, boolean, default false): Indicates if lists must be sorted before they are compared.
 4. Result: The script returns a boolean value indicating if the two lists are identical or not.
-
